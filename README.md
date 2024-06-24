@@ -1,4 +1,5 @@
-[![](https://jitci.com/gh/vAHiD55555/-Gradle-Actions/svg)](https://jitci.com/gh/vAHiD55555
+[![](https://jitci.com/gh/vAHiD55555/-Gradle-Actions/svg)](https://jitci.com/gh/vAHiD55555/-Gradle-Actions)
+
 
 # GitHub Actions for Gradle builds
 
